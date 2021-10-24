@@ -1,7 +1,7 @@
 ![Header](https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif)
 
 
-<img src="https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif" width="200" />
+<img src="https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif" width="100vh" />
 
 ### I'm a beginner Front-end Developer
 
