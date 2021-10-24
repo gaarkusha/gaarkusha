@@ -1,20 +1,12 @@
 ![Header](https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif)
 
-About me
+###I'm a beginner Front-end Developer
 
-Languages and Tools
+###Languages and Tools
+![Javascritp](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+
 
 Follow me
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
