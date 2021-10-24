@@ -1,6 +1,11 @@
 ![Header](https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif)
 
+
+<img src="https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif" width="200" />
+
 ### I'm a beginner Front-end Developer
+
+---
 
 ### Languages and Tools
 
@@ -18,5 +23,8 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gaarkusha)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaarkusha&show_icons=true&theme=tokyonight)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaarkusha&theme=tokyonight)
 
