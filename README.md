@@ -1,4 +1,4 @@
-![Header](https://github.com/gaarkusha/gaarkusha/blob/main/assets/github-header.gif)
+![Header](https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif)
 
 About me
 
