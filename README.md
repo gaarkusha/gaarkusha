@@ -1,6 +1,6 @@
 <img src="https://github.com/gaarkusha/gaarkusha/blob/main/assets/header.gif" width="1000" />
 
-### I'm a beginner Front-end Developer
+### I like to turn ideas into reality with the help of web development
 
 ---
 
