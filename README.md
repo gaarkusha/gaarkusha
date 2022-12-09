@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gaarkusha)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/gaarkusha)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gaarkusha)
-[![Codewarn](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Gaarkusha)
+[![Codewarn](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=red)](https://www.codewars.com/users/Gaarkusha)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaarkusha&show_icons=true&theme=tokyonight)
 
