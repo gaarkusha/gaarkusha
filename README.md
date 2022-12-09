@@ -16,7 +16,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/vladislav_garkusha)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gaarkusha)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/gaarkusha)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/gaarkusha)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gaarkusha)
 [![Codewarn](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=red)](https://www.codewars.com/users/Gaarkusha)
 
