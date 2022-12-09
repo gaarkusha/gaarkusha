@@ -10,6 +10,8 @@
 [![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)](https://en.wikipedia.org/wiki/TypeScript)
 [![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)](https://en.reactjs.org)
 [![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)](https://redux.js.org)
+[![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)](https://nodejs.org)
+
 
 
 ### Follow me
